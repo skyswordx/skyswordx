@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 ## OVERVIEW
 
 - 👋 Hi, I’m @[c1rcLEMoon](https://github.com/skyswordx)
+- 👨‍🎓 My education: SYSU(Sun-Yat-Sen University)(2023 ~ now)
 - ✨ My blog url: [click here](https://www.circlemoon.top)
 
 ## STATUS
