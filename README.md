@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B3D2E,50:16624A,100:3B915D&text=circL%CE%A3Moon&fontColor=FFFFFF&fontSize=60&fontAlignY=36&desc=Embedded%20%C2%B7%20Robotics%20%C2%B7%20Edge%20AI&descAlignY=58&descSize=18" alt="circLΣMoon" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=3B915D&center=true&vCenter=true&width=600&lines=Embedded+%C2%B7+Robotics+%C2%B7+Edge+AI;STM32+%2F+ESP32+firmware+%C2%B7+RTOS+%C2%B7+DSP;Robot+arms%2C+VLA+policies+and+NPU+deployment;SEIT%2C+Sun+Yat-sen+University" alt="Typing intro" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+    <img src="assets/banner-light.svg" alt="CircLΣMoon · Embedded · Robotics · Edge AI" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
@@ -186,4 +185,3 @@ Agent-friendly harness for on-target STM32 debugging: structured state, evidence
   <img src="https://raw.githubusercontent.com/skyswordx/skyswordx/output/github-snake.svg" alt="Contribution snake" width="100%" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0B3D2E,50:16624A,100:3B915D" alt="" width="100%" />
