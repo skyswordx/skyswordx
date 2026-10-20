@@ -185,3 +185,9 @@ Agent-friendly harness for on-target STM32 debugging: structured state, evidence
   <img src="https://raw.githubusercontent.com/skyswordx/skyswordx/output/github-snake.svg" alt="Contribution snake" width="100%" />
 </picture>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
+    <img src="assets/footer-light.svg" alt="" width="100%" />
+  </picture>
+</p>
